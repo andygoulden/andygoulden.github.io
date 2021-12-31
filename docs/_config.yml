@@ -2,8 +2,8 @@ title: Andy Goulden's blog
 email: not-real@email.com
 description: >-
   This site is run by Andy Goulden.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/docs"
+url: "https://andygoulden.github.io"
 github_username:  andygoulden
 
 # Build settings
