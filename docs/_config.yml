@@ -7,6 +7,6 @@ url: "https://andygoulden.github.io"
 github_username:  andygoulden
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
