@@ -5,8 +5,10 @@ description: >-
 baseurl: ""
 url: "https://andygoulden.github.io"
 github_username:  andygoulden
+repository: andygoulden/andygoulden.github.io
 
 # Build settings
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
