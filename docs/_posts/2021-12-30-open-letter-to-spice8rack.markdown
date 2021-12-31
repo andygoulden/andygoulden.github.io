@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "An Open Letter to Spice8Rack"
 date:   2021-12-30 19:48:10 +0000
 categories: first
