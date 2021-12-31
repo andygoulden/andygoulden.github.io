@@ -2,7 +2,7 @@ title: Andy Goulden's blog
 email: not-real@email.com
 description: >-
   This site is run by Andy Goulden.
-baseurl: "/docs"
+baseurl: ""
 url: "https://andygoulden.github.io"
 github_username:  andygoulden
 
