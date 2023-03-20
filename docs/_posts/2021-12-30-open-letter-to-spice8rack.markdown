@@ -31,11 +31,11 @@ This article comes to you in 5 parts:
 
 ## The Problem
 
-In his video, Spice wanted to know the average power of Human Soldier creatures, and the average power of Boars, to make a point about the powers and toughnesses of creatures in Magic.
+In their video, Spice wanted to know the average power of Human Soldier creatures, and the average power of Boars, to make a point about the powers and toughnesses of creatures in Magic.
 
-To do this, he needed to calculate the total power of Human Soldier creatures, and the total toughness, and divide each by the number of creatures, to get the mean of each. He also did this for Boars, but I'm going to skip that for this article, since the process would be the same.
+To do this, they needed to calculate the total power of Human Soldier creatures, and the total toughness, and divide each by the number of creatures, to get the mean of each. They also did this for Boars, but I'm going to skip that for this article, since the process would be the same.
 
-He went to the website Scryfall - a Magic: the Gathering database site - and did a search for cards with the types "human" and "soldier".
+They went to the website Scryfall - a Magic: the Gathering database site - and did a search for cards with the types "human" and "soldier".
 
 He now wanted to take all of the powers and toughnesses of the returned cards, add them all together, and divide them each by the number of results, to produce the average power and toughness of all human soldiers in Magic.
 
@@ -44,13 +44,13 @@ total power / number of human soldiers = average power
 total toughness / number of human soldiers = average toughness
 ```
 
-So what did he do?
+So what did they do?
 
 A normal person would have given up.
 
 Someone who writes code for a living would write some kind of script to do it.
 
-Spice decided to enter each power and toughness for more than four hundred cards into a GoogleDocs spreadsheet. And then, because he was a little drunk, he buggered it up and had to do it again.
+Spice decided to enter each power and toughness for more than four hundred cards into a GoogleDocs spreadsheet. And then, because they was a little drunk, they buggered it up and had to do it again.
 
 <img src="{{site.url}}/images/spice-memnarch.jpg" style="display: block; margin: auto;" />
 
@@ -304,11 +304,11 @@ That means it skipped four creatures with stats it couldn't understand, leaving 
 
 This concludes my letter to Spice8Rack. 
 
-Do I expect Spice to read this page, spend hours learning Python and JSON, and master the Scryfall API to the point where he could write a script like this himself?
+Do I expect Spice to read this page, spend hours learning Python and JSON, and master the Scryfall API to the point where he could write a script like this themselves?
 
 No.
 
-However, I hope that he can take the script I wrote, get it to run, and maybe hack it to do something useful for a future video. Or, failing that, he can send this article to someone else and get them to adapt it for whatever future Magic-madness he works on in the future.
+However, I hope that they can take the script I wrote, get it to run, and maybe hack it to do something useful for a future video. Or, failing that, they can send this article to someone else and get them to adapt it for whatever future Magic-madness they works on in the future.
 
 Stay spicy,
 
